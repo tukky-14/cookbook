@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cookbook"
+    }
+  },
+  "defaultProject": "cookbook",
+  "cli": {
+    "analytics": "356561a9-edc8-4a8c-a6ae-46e035548622"
+  }
 }
